@@ -14,4 +14,4 @@
 
 top程序的交互界面如下：
 
-![top-1](/Users/handy/Workspace/HanJunwei.github.io/system-admin-cmd/images/top-1.jpg)
+![top-1](https://github.com/HanJunwei/HanJunwei.github.io/blob/main/system-admin-cmd/images/top-1.jpg)
